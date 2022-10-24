@@ -6,7 +6,7 @@
 2. Create a web app based on the provided Figma wireframe; https://www.figma.com/file/prwc5wnVsizQqodL9juIss/Wireframe-(Community)?node-id=0%3A1
 3. Use the following API url to retrieve the data; https://guileless-sopapillas-50e236.netlify.app/articles.json
 4. Display all the `description` and `image` fields from the provided data
-5. Implement a toggle mechanism to filter the data based on the `category` field from the provided data
+5. Implement a filter mechanism to filter the data based on the `category` field from the provided data
 6. Push all your work up to github
 7. Come to the next interview ready to show and talk about the work you did 🙂
 
